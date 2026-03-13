@@ -5,14 +5,14 @@
 
 /* ── CSS VARIABLES (change colors here) ── */
 :root {
-  --ink: #0f0e0c;
-  --paper: #f5f0e8;
-  --cream: #a09d95;
-  --accent: #c8502a;        /* ← Main brand color. Change this to your preferred color */
-  --accent-light: #e8c4b8;
-  --muted: #7a7468;
-  --border: #d4cfc4;
-  --white: #fefcf8;
+  --ink: #2d2028;
+  --paper: #fdf0f3;
+  --cream: #fce4ec;
+  --accent: #c4637a;
+  --accent-light: #f2b8c6;
+  --muted: #9e7b85;
+  --border: #f0d0d8;
+  --white: #fff8f9;
 }
 
 /* ── RESET ── */
